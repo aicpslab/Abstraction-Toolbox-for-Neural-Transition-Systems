@@ -6,7 +6,7 @@ This toolbox makes use of IGNNV (at:https://github.com/xiangweiming/ignnv) for r
 
 # Setup
 1. MATLAB pre-installed is required.
-2. UPPAAL 5.0 pre-install is required.
+2. UPPAAL 5.0 pre-installed is required.
 3. Add the folder "Abstraction-Toolbox-for-Neural-Transition-Systems" to the MATLAB workpath.
 
 # Running tests and examples
