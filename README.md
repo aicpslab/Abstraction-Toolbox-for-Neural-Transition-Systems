@@ -15,5 +15,5 @@ This toolbox makes use of IGNNV (at:https://github.com/xiangweiming/ignnv) for r
 2. Open .../MaglevModelGraph1.xml with UPPAAL to verify if the neural transition system satisfy certain specifications, and return counterexample if not.
 
 # Features
-![image]([https://github.com/aicpslab/Abstraction-Toolbox-for-Neural-Transition-Systems/blob/main/Abstaction.png])
-![image]([https://github.com/aicpslab/Abstraction-Toolbox-for-Neural-Transition-Systems/blob/main/Abstaction2.png])
+![image](https://github.com/aicpslab/Abstraction-Toolbox-for-Neural-Transition-Systems/blob/main/Abstaction.png)
+![image](https://github.com/aicpslab/Abstraction-Toolbox-for-Neural-Transition-Systems/blob/main/Abstaction2.png)
