@@ -13,3 +13,7 @@ This toolbox makes use of IGNNV (at:https://github.com/xiangweiming/ignnv) for r
 
 1. Open .../Abstraction-Toolbox-for-Neural-Transition-Systems/Maglev_example.mlx with MATLAB to execute the scripts for testing/analyzing examples and generate the model graph named "MaglevModelGraph1.xml".
 2. Open .../MaglevModelGraph1.xml with UPPAAL to verify if the neural transition system satisfy certain specifications, and return counterexample if not.
+
+# Features
+![image]([https://github.com/aicpslab/Abstraction-Toolbox-for-Neural-Transition-Systems/blob/main/MaglevAbstraction.pdf])
+![image]([https://github.com/aicpslab/Abstraction-Toolbox-for-Neural-Transition-Systems/blob/main/MaglevAbstraction2.pdf])
